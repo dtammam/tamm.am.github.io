@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 70px; /* Soft but useful padding */
+}
+.fixed-header {
+    position: relative; /* Positioning context for the bull emoji */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    z-index: 1040; /* Higher z-index to stay on top of other content */
+}
+.fixed-emoji {
+    position: absolute;
+    left: 10px;
+    font-size: 2em;
+}
