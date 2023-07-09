@@ -1,2 +1,2 @@
 # tamm.am.github.io
-To be fleshed out further in the near-future
+This is the website I've made as a capstone project for a web development course!
